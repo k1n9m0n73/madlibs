@@ -13,7 +13,7 @@ Label(root, text = 'Click Any One :', font = 'arial 15 bold').place(x=40, y=80)
 
 def madlib1():
 
-    animals= input('enter a animal name : ')
+    animals = input('enter a animal name : ')
     profession = input('enter a profession name: ')
     cloth = input('enter a piece of cloth name: ')
     things = input('enter a thing name: ')
