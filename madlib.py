@@ -1,9 +1,8 @@
 #import module
-from tkinter
-import *
+import tkinter as tk
 
 # initialize window
-root = Tk()
+root = tk
 root.geometry('300x300')
 root.title('DataFlair-Mad Libs Generator')
 Label(root, text= 'Mad Libs Generator \n Have Fun!' , font = 'arial 20 bold').pack()
